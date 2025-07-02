@@ -78,3 +78,5 @@ I’m Omar Mahmoud, a software engineer focused on building scalable, user-centr
 * 📧 [omrmhd54@gmail.com](mailto:omrmhd54@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/omrmhd5/)
 * 🌐 [Portfolio](https://omrmhd5.github.io/Portfolio/)
+* 📄 [My CV](https://flowcv.com/resume/9ws090uw2t)
+
