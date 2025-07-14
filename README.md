@@ -14,6 +14,9 @@ I’m Omar Mahmoud, a software engineer focused on building scalable, user-centr
 
 ## 🚀 Featured Projects
 
+✅ **Pest Control Reporting System – Takween Al Watan** — A reporting system that fully eliminated manual Excel tracking for a Saudi government client.
+[Repo](https://github.com/omrmhd5/TakweenAlWatan) | [Live](https://takween-al-watan.vercel.app/)
+
 ✅ **OSTR** — MERN e-commerce fashion platform with JWT auth, admin dashboards, and custom product design
 [Repo](https://github.com/omrmhd5/OSTR)
 
