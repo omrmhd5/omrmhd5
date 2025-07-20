@@ -18,7 +18,7 @@ I’m Omar Mahmoud, a software engineer focused on building scalable, user-centr
 [Repo](https://github.com/omrmhd5/TakweenAlWatan) | [Live](https://takween-al-watan.vercel.app/)
 
 ✅ **OSTR** — MERN e-commerce fashion platform with JWT auth, admin dashboards, and custom product design
-[Repo](https://github.com/omrmhd5/OSTR)
+[Repo](https://github.com/omrmhd5/OSTR) | [Live](https://ostr-store.vercel.app/)
 
 ✅ **DSRE** — Bilingual real estate platform with dark/light mode and secure listing management
 [Repo](https://github.com/omrmhd5/DSRE) | [Live](https://dsre.vercel.app/)
