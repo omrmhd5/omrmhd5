@@ -2,7 +2,7 @@
 
 **Software Engineer | MERN Full-Stack Developer | AI Enthusiast**
 
-I’m Omar Mahmoud, a software engineer focused on building scalable, user-centric web solutions. I’m currently pursuing a BSc in Informatics & Computer Science at the British University in Egypt (GPA 4.0). I thrive on transforming complex problems into clean, maintainable code and delivering robust, production-ready solutions.
+I’m Omar Mahmoud, a software engineer focused on building scalable, user-centric web and mobile solutions. I’m currently pursuing a BSc in Informatics & Computer Science at the British University in Egypt (GPA 4.0). I thrive on transforming complex problems into clean, maintainable code and delivering robust, production-ready solutions.
 
 * 🔭 Building responsive, secure, modern apps with **MERN**, Java, and beyond
 * ⚡ Skilled in **SDLC, SOLID principles, design patterns, clean code**
