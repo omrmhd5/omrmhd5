@@ -14,8 +14,11 @@ I’m Omar Mahmoud, a software engineer focused on building scalable, user-centr
 
 ## 🚀 Featured Projects
 
-✅ Huraymila Healthy City — MERN-based government platform digitizing healthy-city standards with role-based dashboards and approvals.
+✅ **Huraymila Healthy City** — MERN-based government platform digitizing healthy-city standards with role-based dashboards and approvals.
 [Repo](https://github.com/omrmhd5/Huraymila) | [Live](https://huraymila.vercel.app/)
+
+✅ **Audoria** – AI-powered, voice-first mobile app enabling visually impaired students to learn independently through OCR, audio lessons, summaries, quizzes, and parent insights.
+[Repo](https://github.com/malak-0/Audoria) | [Video](https://drive.google.com/file/d/15hZDXk2ryQgsCmCrcAHeXQC4WE9NCx_K/view?usp=sharing)
 
 ✅ **Pest Control Reporting System – Takween Al Watan** — A reporting system that fully eliminated manual Excel tracking for a Saudi government client.
 [Repo](https://github.com/omrmhd5/TakweenAlWatan) | [Live](https://takween-al-watan.vercel.app/)
@@ -23,7 +26,7 @@ I’m Omar Mahmoud, a software engineer focused on building scalable, user-centr
 ✅ **OSTR** — MERN e-commerce fashion platform with JWT auth, admin dashboards, and custom product design
 [Repo](https://github.com/omrmhd5/OSTR) | [Live](https://ostr-store.vercel.app/)
 
-✅ Abdullah Bukhari Transport & Logistics — Multilingual corporate website showcasing 7 services with modern UI and SEO-friendly structure.
+✅ **Abdullah Bukhari Transport & Logistics** — Multilingual corporate website showcasing 7 services with modern UI and SEO-friendly structure.
 [Repo](https://github.com/omrmhd5/bukhari) | [Live](https://logistics-as.com/)
 
 ✅ **Continental Premium Properties** — Bilingual real estate platform with dark/light mode and secure listing management
