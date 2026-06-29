@@ -35,12 +35,6 @@ I’m Omar Mahmoud, a software engineer focused on building scalable, user-centr
 ✅ **Restoro** — Java-based food ordering system with SOLID, design patterns, JUnit
 [Repo](https://github.com/omrmhd5/RESTORO)
 
-✅ **NFQ To-Do App** — Full-stack React/Laravel task manager with CI/CD
-[Repo](https://github.com/omrmhd5/internship-todo-app) | [Live](https://omar--omar-todo-application.netlify.app/)
-
-✅ **Gemini Clone** — AI-powered chatbot using vanilla JS
-[Repo](https://github.com/omrmhd5/Gemini-Clone) | [Live](https://omrmhd5.github.io/Gemini-Clone/)
-
 ---
 
 ## 🛠️ Tech Stack
