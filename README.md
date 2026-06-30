@@ -1,18 +1,21 @@
 # 👋 Hi, I’m Omar Mahmoud
 
-**Software Engineer | MERN Full-Stack Developer | AI Enthusiast**
+**Software Engineer | MERN Full-Stack Developer | Applied AI Engineer**
 
-I’m Omar Mahmoud, a software engineer focused on building scalable, user-centric web and mobile solutions. I’m currently pursuing a BSc in Informatics & Computer Science at the British University in Egypt (GPA 4.0). I thrive on transforming complex problems into clean, maintainable code and delivering robust, production-ready solutions.
+I’m Omar Mahmoud, a software engineer focused on building scalable, user-centric web and mobile solutions. I hold a BSc in Informatics & Computer Science, majoring in Software Engineering, from the British University in Egypt (GPA 4.0). I thrive on transforming complex problems into clean, maintainable code and delivering robust, production-ready solutions.
 
 * 🔭 Building responsive, secure, modern apps with **MERN**, Java, and beyond
 * ⚡ Skilled in **SDLC, SOLID principles, design patterns, clean code**
-* 🌐 Keen on integrating **AI** to enhance user experience
+* 🌐 Architecting intelligent systems with **Computer Vision, NLP (LLMs), and Predictive Machine Learning**
 * 🧩 Team experience from real-world projects and internships (AAIB, NFQ)
 * 🚀 Lifelong learner — always shipping, always improving
 
 ---
 
 ## 🚀 Featured Projects
+
+✅ **AmanCity** — AI-powered public safety mobile app for Egypt that replaces fragmented emergency hotlines by proactively detecting and verifying urban hazards from crowdsourced media and social networks. It empowers citizens and women with live danger maps, conversational safety advice, AI-guided safe route planning, and a persistent SOS tracking system.
+[Repo](https://github.com/omrmhd5/AmanCity) | [Video](https://youtu.be/0-Qayg2_9uc)
 
 ✅ **Huraymila Healthy City** — MERN-based government platform digitizing healthy-city standards with role-based dashboards and approvals.
 [Repo](https://github.com/omrmhd5/Huraymila) | [Live](https://huraymila.vercel.app/)
@@ -77,6 +80,11 @@ I’m Omar Mahmoud, a software engineer focused on building scalable, user-centr
 
 ### **AI & Integration**
 ![AI Integration](https://img.shields.io/badge/-AI%20Integration-blueviolet?style=flat)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-black?logo=opencv&logoColor=white&style=flat)
+![YOLO](https://img.shields.io/badge/-YOLO%20Models-00FFFF?logo=yolo&logoColor=black&style=flat)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?logo=googlebard&logoColor=white&style=flat)
 
 ---
 
