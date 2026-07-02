@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Omar Mahmoud
 
-**Software Engineer | MERN Full-Stack Developer | Applied AI Engineer**
+**Full-Stack Software Engineer | Applied AI Developer**
 
 I’m Omar Mahmoud, a software engineer focused on building scalable, user-centric web and mobile solutions. I hold a BSc in Informatics & Computer Science, majoring in Software Engineering, from the British University in Egypt (GPA 4.0). I thrive on transforming complex problems into clean, maintainable code and delivering robust, production-ready solutions.
 
@@ -14,7 +14,7 @@ I’m Omar Mahmoud, a software engineer focused on building scalable, user-centr
 
 ## 🚀 Featured Projects
 
-✅ **AmanCity** — AI-powered public safety mobile app for Egypt that replaces fragmented emergency hotlines by proactively detecting and verifying urban hazards from crowdsourced media and social networks. It empowers citizens and women with live danger maps, conversational safety advice, AI-guided safe route planning, and a persistent SOS tracking system.
+✅ **AmanCity** ![Graduation Project](https://img.shields.io/badge/Graduation_Project-BUE-red?style=flat-square) — AI-powered public safety mobile app for Egypt that replaces fragmented emergency hotlines by proactively detecting and verifying urban hazards from crowdsourced media and social networks. It empowers citizens and women with live danger maps, conversational safety advice, AI-guided safe route planning, and a persistent SOS tracking system.
 [Repo](https://github.com/omrmhd5/AmanCity) | [Video](https://youtu.be/0-Qayg2_9uc)
 
 ✅ **Huraymila Healthy City** — MERN-based government platform digitizing healthy-city standards with role-based dashboards and approvals.
