@@ -18,7 +18,7 @@ I’m Omar Mahmoud, a software engineer focused on building scalable, user-centr
 [Repo](https://github.com/omrmhd5/AmanCity) | [Video](https://youtu.be/0-Qayg2_9uc)
 
 ✅ **Huraymila Healthy City** — MERN-based government platform digitizing healthy-city standards with role-based dashboards and approvals.
-[Repo](https://github.com/omrmhd5/Huraymila) | [Live](https://huraymila.vercel.app/)
+[Repo](https://github.com/omrmhd5/Huraymila) | [Live](https://huraymilahealth.com/)
 
 ✅ **Audoria** – AI-powered, voice-first mobile app enabling visually impaired students to learn independently through OCR, audio lessons, summaries, quizzes, and parent insights.
 [Repo](https://github.com/malak-0/Audoria) | [Video](https://drive.google.com/file/d/15hZDXk2ryQgsCmCrcAHeXQC4WE9NCx_K/view?usp=sharing)
