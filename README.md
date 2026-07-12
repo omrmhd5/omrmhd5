@@ -4,11 +4,19 @@
 
 I'm Omar Mahmoud, a Full-Stack Software Engineer focused on building custom, AI-powered web and mobile applications for international clients. I graduated from the British University in Egypt with a BSc in Informatics & Computer Science, specializing in Software Engineering (GPA: 4.0). I enjoy transforming complex business requirements into scalable, maintainable software and delivering reliable, production-ready solutions that solve real-world problems.
 
-* 🔭 Building responsive, secure, modern apps with **MERN**, Java, and beyond
+* 🔭 Building scalable, secure, and modern applications with **MERN, Java, Flutter, and AI**
 * ⚡ Skilled in **SDLC, SOLID principles, design patterns, clean code**
-* 🌐 Architecting intelligent systems with **Computer Vision, NLP (LLMs), and Predictive Machine Learning**
-* 🧩 Team experience from real-world projects and internships (AAIB, NFQ)
+* 🌐 Architecting intelligent systems with **Computer Vision, NLP (LLMs), and Machine Learning**
+* 🧩 Experience delivering software through freelance projects and internships (AAIB, NFQ)
 * 🚀 Lifelong learner — always shipping, always improving
+
+---
+
+## 💡 What I'm Working On
+
+- Building scalable full-stack applications with React, Node.js, and Flutter.
+- Exploring Applied AI through Computer Vision, NLP, and Generative AI.
+- Continuously improving software architecture, backend systems, and cloud deployment practices.
 
 ---
 
@@ -26,7 +34,7 @@ I'm Omar Mahmoud, a Full-Stack Software Engineer focused on building custom, AI-
 ✅ **Pest Control Reporting System – Takween Al Watan** — A reporting system that fully eliminated manual Excel tracking for a Saudi government client.
 [Repo](https://github.com/omrmhd5/TakweenAlWatan) | [Live](https://takween-al-watan.vercel.app/)
 
-✅ **OSTR** — MERN e-commerce fashion platform with JWT auth, admin dashboards, and custom product design
+✅ **OSTR** — MERN e-commerce fashion platform with JWT auth, admin dashboard, and custom product design
 [Repo](https://github.com/omrmhd5/OSTR) | [Live](https://ostr-store.vercel.app/)
 
 ✅ **Abdullah Bukhari Transport & Logistics** — Multilingual corporate website showcasing 7 services with modern UI and SEO-friendly structure.
@@ -35,8 +43,8 @@ I'm Omar Mahmoud, a Full-Stack Software Engineer focused on building custom, AI-
 ✅ **Continental Premium Properties** — Bilingual real estate platform with dark/light mode and secure listing management
 [Repo](https://github.com/omrmhd5/Continental-Premium-Properties) | [Live](https://continental-premium-properties.vercel.app/)
 
-✅ **Restoro** — Java-based food ordering system with SOLID, design patterns, JUnit
-[Repo](https://github.com/omrmhd5/RESTORO)
+✅ **Hospital Management System** — Java-based hospital management system built with Java RMI, showcasing secure client-server architecture, SDLC, UML, SOLID principles, design patterns, and JUnit testing.
+[Repo](https://github.com/omrmhd5/HospitalManagmentSystem)
 
 ---
 
