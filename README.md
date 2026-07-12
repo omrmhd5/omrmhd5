@@ -4,7 +4,7 @@
 
 I'm Omar Mahmoud, a Full-Stack Software Engineer focused on building custom, AI-powered web and mobile applications for international clients. I graduated from the British University in Egypt with a BSc in Informatics & Computer Science, specializing in Software Engineering (GPA: 4.0). I focus on transforming complex business requirements into scalable, maintainable software and delivering reliable, production-ready solutions that solve real-world problems.
 
-* 🔭 Building scalable, secure, and modern applications with **MERN, Java, Flutter, and AI**
+* 🔭 Building scalable, secure, and modern web & mobile applications with **MERN, Flutter, Java, and AI.**
 * ⚡ Skilled in **SDLC, SOLID principles, design patterns, clean code**
 * 🌐 Architecting intelligent systems with **Computer Vision, NLP (LLMs), and Machine Learning**
 * 🧩 Experience delivering software through freelance projects and internships (AAIB, NFQ)
