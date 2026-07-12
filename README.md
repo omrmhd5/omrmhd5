@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | Applied AI Developer**
 
-I’m Omar Mahmoud, a software engineer focused on building intelligent, user-centric, and custom web & mobile applications for international clients. I hold a BSc in Informatics & Computer Science, majoring in Software Engineering, from the British University in Egypt (GPA 4.0). I thrive on transforming complex problems into clean, maintainable code and delivering robust, production-ready solutions.
+I'm Omar Mahmoud, a Full-Stack Software Engineer focused on building custom, AI-powered web and mobile applications for international clients. I graduated from the British University in Egypt with a BSc in Informatics & Computer Science, specializing in Software Engineering (GPA: 4.0). I enjoy transforming complex business requirements into scalable, maintainable software and delivering reliable, production-ready solutions that solve real-world problems.
 
 * 🔭 Building responsive, secure, modern apps with **MERN**, Java, and beyond
 * ⚡ Skilled in **SDLC, SOLID principles, design patterns, clean code**
