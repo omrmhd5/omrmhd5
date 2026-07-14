@@ -51,14 +51,12 @@ I'm Omar Mahmoud, a Full-Stack Software Engineer focused on building custom, AI-
 ## 🛠️ Tech Stack
 
 ### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 
 ---
 
@@ -67,6 +65,8 @@ I'm Omar Mahmoud, a Full-Stack Software Engineer focused on building custom, AI-
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
 ---
 
@@ -82,8 +82,8 @@ I'm Omar Mahmoud, a Full-Stack Software Engineer focused on building custom, AI-
 
 ### **AI & Machine Learning**
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision%20(OpenCV)-black?logo=opencv&logoColor=white&style=flat)
-![YOLO26](https://img.shields.io/badge/-YOLO26-00FFFF?logo=yolo&logoColor=black&style=flat)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning%20(Scikit--Learn)-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![YOLO](https://img.shields.io/badge/-YOLO26-00FFFF?logo=yolo&logoColor=black&style=flat)
+![Machine Learning (Scikit-Learn, Random Forests)](https://img.shields.io/badge/-Machine%20Learning%20(Scikit--Learn)-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI%20(Gemini)-8E75B2?logo=googlebard&logoColor=white&style=flat)
 ![xAI Grok](https://img.shields.io/badge/-xAI%20Grok-000000?logo=x&logoColor=white&style=flat)
 ![OSINT](https://img.shields.io/badge/-OSINT-181717?logo=duckduckgo&logoColor=white&style=flat)
@@ -105,7 +105,7 @@ I'm Omar Mahmoud, a Full-Stack Software Engineer focused on building custom, AI-
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Agile](https://img.shields.io/badge/-Agile-326CE5?logo=jira&logoColor=white&style=flat)
-![SDLC](https://img.shields.io/badge/-SDLC-00599C?logo=confluence&logoColor=white&style=flat)
+![Software Development Life Cycle (SDLC)](https://img.shields.io/badge/-SDLC-00599C?logo=confluence&logoColor=white&style=flat)
 
 ---
 
@@ -125,6 +125,6 @@ I'm Omar Mahmoud, a Full-Stack Software Engineer focused on building custom, AI-
 
 * 📧 [omrmhd54@gmail.com](mailto:omrmhd54@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/omrmhd5/)
-* 🌐 [Portfolio](https://omrmhd5.github.io/Portfolio/)
+* 🌐 [Portfolio](https://omarmahmoud.dev)
 * 📄 [My CV](https://flowcv.com/resume/9ws090uw2t)
 
