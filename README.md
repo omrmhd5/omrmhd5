@@ -36,11 +36,11 @@ I'm Omar Mahmoud, a Full-Stack AI & Mobile Software Engineer building custom, AI
 ✅ **Pest Control Reporting System – Takween Al Watan** — Field reporting system for a Saudi government contractor that fully eliminated manual Excel tracking.
 [Repo](https://github.com/omrmhd5/TakweenAlWatan) | [Live Demo](https://takween-al-watan-demo.vercel.app)
 
-✅ **Lab2Dent** — Dental case coordination platform for students to register lab work, pay via Instapay, and track cases with one code.
-[Repo](https://github.com/omrmhd5/Lab2Dent) | [Live Demo](https://lab2dent-demo.vercel.app)
-
 ✅ **Quiz Platform** — Classroom quiz platform replacing paper quizzes and manual grading with live MCQ sessions and auto-graded results.
 [Repo](https://github.com/omrmhd5/Quiz-Platform) | [Live Demo](https://quiz-platform-demo-nine.vercel.app)
+
+✅ **Lab2Dent** — Dental case coordination platform for students to register lab work, pay via Instapay, and track cases with one code.
+[Repo](https://github.com/omrmhd5/Lab2Dent) | [Live Demo](https://lab2dent-demo.vercel.app)
 
 ✅ **Tool Tracker** — Tool inventory and check-in/out system replacing manual paper and spreadsheet custody logs.
 [Repo](https://github.com/omrmhd5/ToolTracker) | [Live Demo](https://tooltracker-demo.vercel.app)
