@@ -30,7 +30,7 @@ I'm Omar Mahmoud, a Full-Stack AI & Mobile Software Engineer building custom, AI
 ✅ **Audoria** — Voice-first AI mobile app helping visually impaired students learn independently through OCR, audio lessons, AI summaries, quizzes, and parent insights.
 [Repo](https://github.com/omrmhd5/Audoria) | [Video](https://drive.google.com/file/d/15hZDXk2ryQgsCmCrcAHeXQC4WE9NCx_K/view?usp=sharing)
 
-✅ **King Khalid Training Center** — Attendance and classroom system replacing paper roll call with trainee ID scanning and daily class reports.
+✅ **King Khalid Training Center** — Attendance and classroom system replacing paper roll call with barcode scan check-in/out and shift-based on-time/late tracking.
 [Repo](https://github.com/omrmhd5/KingKhalidTrainingAttendanceSystem) | [Live Demo](https://king-khalid-training-attendance-system-demo.vercel.app)
 
 ✅ **Pest Control Reporting System – Takween Al Watan** — Field reporting system for a Saudi government contractor that fully eliminated manual Excel tracking.
@@ -85,11 +85,9 @@ I'm Omar Mahmoud, a Full-Stack AI & Mobile Software Engineer building custom, AI
 ---
 
 ### **AI & Machine Learning**
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision%20(OpenCV)-black?logo=opencv&logoColor=white&style=flat)
-![YOLO](https://img.shields.io/badge/-YOLO26-00FFFF?logo=yolo&logoColor=black&style=flat)
-![Machine Learning (Scikit-Learn, Random Forests)](https://img.shields.io/badge/-Machine%20Learning%20(Scikit--Learn)-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI%20(Gemini)-8E75B2?logo=googlebard&logoColor=white&style=flat)
-![xAI Grok](https://img.shields.io/badge/-xAI%20Grok-000000?logo=x&logoColor=white&style=flat)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-8E75B2?logo=googlebard&logoColor=white&style=flat)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-black?logo=opencv&logoColor=white&style=flat)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![OSINT](https://img.shields.io/badge/-OSINT-181717?logo=duckduckgo&logoColor=white&style=flat)
 
 ---
@@ -111,7 +109,11 @@ I'm Omar Mahmoud, a Full-Stack AI & Mobile Software Engineer building custom, AI
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Agile](https://img.shields.io/badge/-Agile-326CE5?logo=jira&logoColor=white&style=flat)
-![Software Development Life Cycle (SDLC)](https://img.shields.io/badge/-SDLC-00599C?logo=confluence&logoColor=white&style=flat)
+![SDLC](https://img.shields.io/badge/-SDLC-00599C?logo=confluence&logoColor=white&style=flat)
+![UML](https://img.shields.io/badge/-UML-00599C?style=flat)
+![SOLID](https://img.shields.io/badge/-SOLID-00599C?style=flat)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-00599C?style=flat)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&style=flat)
 
 ---
 
