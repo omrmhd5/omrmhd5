@@ -99,15 +99,18 @@ I'm Omar Mahmoud, a Full-Stack AI & Mobile Software Engineer building custom, AI
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=black)
+![Amazon EC2 & S3](https://img.shields.io/badge/AWS_EC2_%26_S3-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Linux VPS](https://img.shields.io/badge/-Linux%20VPS%20(Ubuntu)-E95420?logo=ubuntu&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=flat)
-![Linux VPS](https://img.shields.io/badge/-Linux%20VPS%20(Ubuntu)-E95420?logo=ubuntu&logoColor=white&style=flat)
 
 ---
 
 ### **Tools & Methodologies**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![CI/CD (GitHub Actions)](https://img.shields.io/badge/CI%2FCD_GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
 ![Agile](https://img.shields.io/badge/-Agile-326CE5?logo=jira&logoColor=white&style=flat)
 ![SDLC](https://img.shields.io/badge/-SDLC-00599C?logo=confluence&logoColor=white&style=flat)
 ![UML](https://img.shields.io/badge/-UML-00599C?style=flat)
